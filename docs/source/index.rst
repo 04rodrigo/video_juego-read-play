@@ -22,6 +22,6 @@ Contents
    introduccion
    requisito del sistema
    instalacion
-   instroduccion de uso
+   instrucciones de uso
    preguntas frecuentes
    creditos y contacto
