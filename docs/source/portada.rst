@@ -6,7 +6,7 @@ Portada
 Videojuego Educativo:
 
 
- .. image:: imagenes/imagen1.jpeg
+ .. image:: imagenes/logo.png
 
 
        Read & Play
