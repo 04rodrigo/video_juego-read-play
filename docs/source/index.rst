@@ -25,5 +25,5 @@ Contents
    instalacion
    instrucciones de uso
    preguntas frecuentes
-   creditos y contacto
+   credito
 
