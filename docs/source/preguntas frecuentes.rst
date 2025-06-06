@@ -1,7 +1,12 @@
 Preguntas Frecuentes 
 
 ----------------------
+
+
+
  .. image:: imagenes/logo1.jpg
+
+
 
 Interrogantes como:
 
