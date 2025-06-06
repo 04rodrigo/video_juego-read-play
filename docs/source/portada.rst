@@ -26,6 +26,7 @@ video juego
 
 
 
-Autores:  Erika del Rosario Hernandez Garcia.
+Autores: 
+         Erika del Rosario Hernandez Garcia.
           Jared Jesarell Siles Sevilla.
           Rodrigo Ismael Rodriguez Palacios.
