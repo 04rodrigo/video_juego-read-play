@@ -17,11 +17,4 @@ Contents
 --------
 
 .. toctree::
-
-   portada
-   introduccion
-   requisito del sistema
-   instalacion
-   instrucciones de uso
-   preguntas frecuentes
-   creditos y contacto
+u
