@@ -13,9 +13,10 @@ Para jugar, el usuario abrir desde su dispositivo la aplicacion....
 
 
 
-     
 
 
 
 
-Comienza el juego, conforme vaya corriendo el juego se le mostrara obstaculo que tendra que responder cada preguntas que se le mostrar para seguir avanzando
+
+
+°Comienza el juego, conforme vaya corriendo el juego se le mostrara obstaculo que tendra que responder cada preguntas que se le mostrar para seguir avanzando
