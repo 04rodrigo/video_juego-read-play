@@ -4,11 +4,10 @@ Portada
 
 
 Videojuego Educativo:
-
+ .. image:: imagenes/logo.png
        Read & Play
 
-.. image::imagenes/logo.png
- :
+
 
 Autores: 
 
