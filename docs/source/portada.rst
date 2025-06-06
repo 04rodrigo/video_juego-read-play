@@ -7,7 +7,7 @@ Videojuego Educativo:
 
        Read & Play
 
-.. image::imagenes/logotipo.png
+.. image::imagenes/logo.png
  :
 
 Autores: 
