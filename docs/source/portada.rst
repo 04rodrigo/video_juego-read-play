@@ -2,9 +2,18 @@ Portada
 
 -------------------
 
-
 video juego
+
  .. image:: imagenes/logo.png
+
+
+
+
+
+
+
+
+
 
 
 
