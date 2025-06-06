@@ -6,7 +6,7 @@ Creditos y Contacto
 Elaborado por el grupo de innovacion colectiva :
 
 
-.. image:: imagenes/logo1.jpg
+.. image:: imagenes/imagen1.jpeg
 
 
   - Departamento de Tecnologia: Informatica educativa
