@@ -6,7 +6,7 @@ Portada
 
 
 
- .. image:: imagenes/logo.png
+ .. image:: imagenes/imagen2.jpeg
 
 
        Read & Play
