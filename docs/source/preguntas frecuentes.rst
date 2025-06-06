@@ -4,7 +4,7 @@ Preguntas Frecuentes
 
 
 
- .. image:: imagenes/logo1.jpg
+
 
 
 
